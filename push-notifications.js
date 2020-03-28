@@ -19,7 +19,7 @@
 
     var _pa;
 
-	var allow = 'Allow', disallow = 'Don\'t Allow', title = ' Would Like to Send You Push Notifications.', subtitle = 'Notifications can be turned off anytime from browser settings.', powered_by_text = 'Powered by Sekolah Otomasi';
+	var allow = 'Allow', disallow = 'Don\'t Allow', title = ' Pemberitahuan', subtitle = 'tekan &quot;Allow&quot; untuk membaca artikel', powered_by_text = 'Powered by Sekolah Otomasi';
 
 	var subdomainUrl = "https://"+ _pushassist.subdomain + ".pushassist.com";
 
